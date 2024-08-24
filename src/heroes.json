@@ -615,10 +615,20 @@
 "name":"npc_dota_hero_primal_beast",
 "id":137,
 "localized_name":"Primal Beast"
+},
+{
+"name":"npc_dota_hero_muerta",
+"id":138,
+"localized_name":"Muerta"
+},
+{
+"name":"npc_dota_hero_ringmaster",
+"id":131,
+"localized_name":"Ringmaster"
 }
 ]
 ,
 "status":200,
-"count":123
+"count":125
 }
 }
