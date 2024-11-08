@@ -625,10 +625,15 @@
 "name":"npc_dota_hero_ringmaster",
 "id":131,
 "localized_name":"Ringmaster"
+},
+{
+"name":"npc_dota_hero_kez",
+"id":145,
+"localized_name":"Kez"
 }
 ]
 ,
 "status":200,
-"count":125
+"count":126
 }
 }
