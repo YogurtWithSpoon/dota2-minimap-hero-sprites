@@ -702,6 +702,14 @@
     background-position: -416px -320px;
 }
 
+.d2mh.skeleton_king_alt2, .d2mh.npc_dota_hero_skeleton_king_alt2 { 
+    background-position: -448px -320px;
+}
+
+.d2mh.largo, .d2mh.npc_dota_hero_largo, .d2mh.hero-155 { 
+    background-position: -480px -320px;
+}
+
 .d2mh., .d2mh.unit_no_cc { 
     background-position: -0px -480px;
 }
